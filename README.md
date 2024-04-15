@@ -4,7 +4,7 @@
 
 - [Building a SOC + Honeynet in Azure](https://github.com/tico15/Building-a-SOC-Honeynet-in-Azure#building-a-soc-honeynet-in-azure)  
 
-- [Active Directory home Lab]([)](https://github.com/albertoperalta1/Active-Directory)
+- [Active Directory home Lab](https://github.com/albertoperalta1/Active-Directory)
 
 - Certifications
   - [CompTia Security +]([)](https://www.credly.com/badges/5c978f44-faca-486e-b81e-84284aa99ed2/public_url) 
