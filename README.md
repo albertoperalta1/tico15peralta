@@ -3,6 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects
 
 - [Building a SOC + Honeynet in Azure](https://github.com/tico15/Building-a-SOC-Honeynet-in-Azure#building-a-soc-honeynet-in-azure)  
+
+- [Active Directory home Lab](https://github.com/albertoperalta1/Active-Directory/edit/main/README.md#basic-home-lab-running-active-directory)
+
 - Certifications
   - [CompTia Security +]([)](https://www.credly.com/badges/5c978f44-faca-486e-b81e-84284aa99ed2/public_url) 
   - [CompTia A+]([)(https://www.credly.com/badges/d1277e4f-3bbc-4a79-a5a9-6fb1be4834bc/public_url)  
